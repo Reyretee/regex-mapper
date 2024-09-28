@@ -15,6 +15,7 @@
 
    ```bash
    git clone https://github.com/Reyretee/regex-mapper.git
+   ```
 
 2. Install the required Python packages:
   ```bash
