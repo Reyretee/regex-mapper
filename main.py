@@ -1,6 +1,6 @@
 import os
 import yaml
-from conv_to_regex import conv_to_regex
+from utils.conv_to_regex import conv_to_regex
 
 input_file = 'words.txt'
 output_file = 'output.yml'

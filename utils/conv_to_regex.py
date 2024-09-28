@@ -1,4 +1,4 @@
-from char_map import char_map
+from utils.char_map import char_map
 import re
 
 def conv_to_regex(word):
